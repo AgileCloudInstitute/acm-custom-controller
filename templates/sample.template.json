@@ -1,8 +1,11 @@
 [
     {"this": "file"}, 
-    {"can": "use"}, 
-    {"any": "format"}, 
-    {"that": "your"}, 
-    {"custom": "controller"},
-    {"might": "specify."}
+    {"must": "be"}, 
+    {"a": "list"}, 
+    {"of": "valid"}, 
+    {"json": "objects"}, 
+    {"and": "this"},
+    {"entire": "file"},
+    {"must": "also be"},
+    {"valid": "json."}
 ]
