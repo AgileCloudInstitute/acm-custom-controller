@@ -37,4 +37,5 @@ if len(outputVars) > 0:
     print(outputVariable['varName'], ' = ', outputVariable['varValue'])
   print('Finished output variables.')
 print('About to exit custom controller.')
-exit(1)
+#Test making this break by uncommenting the following line.
+#exit(1)
